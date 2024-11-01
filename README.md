@@ -119,7 +119,7 @@ Based on the findings, here are several recommendations for Alex’s Retail to o
 
 Through targeted recommendations, Alex’s Retail can capitalize on these insights to meet customer demands, reduce operational bottlenecks, and boost profitability. By refining their marketing, return policies, and shopping experience, they can provide a better shopping experience tailored to each customer segment, ultimately fostering loyalty and increasing sales during the high-stakes holiday season.
 
-Thank you for staying until the end. This PowerBi file is available on my [Github Repository](https://github.com/WanQi-K/PowerBi-MavenPizza), feel free to star this repository so you can always come back refer to it.
+Thank you for staying until the end. This PowerBi file is available on my [Github Repository](https://github.com/WanQi-K/X-Mas-Sales/tree/main), feel free to star this repository so you can always come back refer to it.
 
 While I am sure you learned a thing or two here, do leave a comment, claps or share with someone who you think would like to check this post out.
 
